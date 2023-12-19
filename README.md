@@ -1,0 +1,1 @@
+This is a demo of virtual threads that are available in Java 21. There will be a producer virtual thread that populates a priority blocking queue, and a consumer virtual thread that reads from the same.
